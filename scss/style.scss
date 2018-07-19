@@ -1,0 +1,14 @@
+// Import Boostrap SCSS for compiling from single SCSS file...this file!
+@import "bootstrap";
+
+@media(max-width: 768px) {
+   #info {
+
+   }
+
+   // Custom class for forms on small screens
+   .mb-resp {
+      margin-bottom: 1rem;
+   }
+
+}
