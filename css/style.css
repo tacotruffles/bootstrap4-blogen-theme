@@ -9509,6 +9509,10 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 
+.navbar-toggler {
+  border: none;
+}
+
 @media (max-width: 768px) {
   .mb-resp {
     margin-bottom: 1rem;

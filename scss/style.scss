@@ -1,6 +1,10 @@
 // Import Boostrap SCSS for compiling from single SCSS file...this file!
 @import "bootstrap";
 
+.navbar-toggler {
+   border: none;
+}
+
 @media(max-width: 768px) {
    #info {
 
